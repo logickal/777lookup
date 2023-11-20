@@ -1,0 +1,9 @@
+type Query {
+    getDataByKey(key: Int!): [ColumnData]
+    getDataByValue(value: String!): [ColumnData]
+}
+
+type ColumnData {
+    columnName: String;
+    data: string;
+}
