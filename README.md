@@ -1,3 +1,7 @@
+# 777 Lookup
+
+This is a small Proof of Concept  using Next and GraphQL as a tool for looking up Quabalistic correspondences from Crowley's 777.  I am indebted to Julio Marin's (aj07mm) project at https://github.com/aj07mm/liber777json for the original source of 777 data in json format.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
